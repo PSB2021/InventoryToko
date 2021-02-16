@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inventory Toko</string>
+    <array name="teams">
+        <item>Gudang A</item>
+        <item>Gudang B</item>
+        <item>Gudang C</item>
+    </array>
+</resources>
